@@ -24,16 +24,10 @@
     "branch": "jellybean-mr1"
   },
   {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_amazon_otter-common",
-    "target_path": "vendor/amazon/otter-common",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_amazon_otter",
-    "target_path": "vendor/amazon/otter",
-    "branch": "jellybean-mr1"
+    "project": "TheMuppets",
+    "repository": "proprietary_vendor_amazon",
+    "target_path": "vendor/amazon",
+    "branch": "cm-10.1"
   }
 ]
 
