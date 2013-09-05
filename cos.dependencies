@@ -3,7 +3,7 @@
     "project": "ChameleonOS",
     "repository": "android_device_amazon_otter-common",
     "target_path": "device/amazon/otter-common",
-    "branch": "jellybean-mr1"
+    "branch": "jellybean-mr2.1"
   },
   {
     "project": "CyanogenMod",
