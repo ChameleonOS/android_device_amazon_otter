@@ -2,8 +2,7 @@
   {
     "project": "ChameleonOS",
     "repository": "android_device_amazon_otter-common",
-    "target_path": "device/amazon/otter-common",
-    "branch": "kitkat-staging"
+    "target_path": "device/amazon/otter-common"
   },
   {
     "project": "CyanogenMod",
